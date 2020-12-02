@@ -28,7 +28,7 @@ object Main {
           printf("*** %d %d\n", i, j)
           printf("*** %d\n", i * j)
         } else {
-          // otherwise add it to the hash
+          // otherwise add this line to the hash
           hash += i
         }
       } catch {
